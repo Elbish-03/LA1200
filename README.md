@@ -2,7 +2,9 @@
 # Meine Erste Project; Guess Game :)
 ## Aufgabenstellung
 In diesem Projekt generiert der Computer eine Zahl für Sie und Sie sollen sie erraten.Sie dürfen so viel mal spielen, wie Sie möchten.
+
     **Ziel 1:** Die Benutzer lernen, wie die Figgle Fonts funktionieren.
+    
     **Ziel 2:** Die Benutzer werden die Möglichkeit haben, so viel mal zu spielen, wie sie möchten.
 ## Inhalt
 ***Textliche Beschreibung***
@@ -16,12 +18,12 @@ Es zählt auch jede Runde, die Sie gespielt haben, und schließlich, wenn Sie ni
 
 
 ## Inhalt
-![https://i.imgur.com/hkMd6fS.png]()
-![https://i.imgur.com/YclSmST.png]()
-![https://i.imgur.com/3Mu0xOs.png]()
+![](https://i.imgur.com/hkMd6fS.png)
+![](https://i.imgur.com/YclSmST.png)
+![](https://i.imgur.com/3Mu0xOs.png)
 
 ## Inhalt
-![(https://i.imgur.com/SZovITS.png)](https://www.youtube.com/watch?v=_TCn95WCnS0)
+[![](https://i.imgur.com/SZovITS.png)](https://www.youtube.com/watch?v=_TCn95WCnS0)
 
 
 ## Reflexion
@@ -32,5 +34,7 @@ Dieses Projekt zu erstellen war sehr interessant. Dies war mein erstes Projekt u
 ## Verifikation
 
 ✅ **Ziel 1:**
+
 ✅ **Ziel 2:**
+
 Ich werde nächste mal besser Zeit einplanen. Ich habe schon besser als letzte mal Zeit eingeplant aber trotzdem hatte ich Zeitdruck. Sonst ist alles genau so gelaufen, wie ich vorgestellt hatte.
