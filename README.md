@@ -16,10 +16,12 @@ Es zählt auch jede Runde, die Sie gespielt haben, und schließlich, wenn Sie ni
 
 
 ## Inhalt
-![]()
+![https://i.imgur.com/hkMd6fS.png]()
+![https://i.imgur.com/YclSmST.png]()
+![https://i.imgur.com/3Mu0xOs.png]()
 
 ## Inhalt
-[(Erstellung eine Gmail Konto)()](https://www.youtube.com/watch?v=_TCn95WCnS0)
+![(https://i.imgur.com/SZovITS.png)](https://www.youtube.com/watch?v=_TCn95WCnS0)
 
 
 ## Reflexion
